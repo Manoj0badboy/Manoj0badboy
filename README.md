@@ -1,5 +1,6 @@
 - 👋 Hi, I am a CS undergraduate at sathyabama Institute of science and Technology,Chennai..
-- 👀 I’m interested in Ask me anything here related to Android application Development, Android Custom Operating System Development,
+- 👀 I’m interested in opensource
+- Ask me anything here related to Android application Development, Android Custom Operating System Development,
 Java,Security.
 - 🌱 I’m currently learning everything😎👀
 - 💞️ I’m looking to collaborate on any project
